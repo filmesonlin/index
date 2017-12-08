@@ -1744,43 +1744,8 @@ body {
 .cid-qDabwUYNfn .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qDabjTMjVx {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-color: #000000;
-}
-.cid-qDabjTMjVx .card-img {
-  background-color: #fff;
-}
-.cid-qDabjTMjVx .card-box {
-  padding: 2rem;
-}
-.cid-qDabjTMjVx h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qDabjTMjVx p {
-  text-align: left;
-}
-.cid-qDabjTMjVx .mbr-text {
-  color: #767676;
-}
-.cid-qDabjTMjVx .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qDabjTMjVx .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qDabjTMjVx .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
+.cid-qDfxy5AZIn {
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qDabwUYNfn .navbar {
   background: #030202;
